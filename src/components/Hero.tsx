@@ -60,7 +60,7 @@ export function Hero() {
                       </a>
                     )}
                     {profileData.resumeUrl && (
-                      <a href={profileData.resumeUrl} target="_blank" rel="noreferrer" className="text-[var(--color-terminal-accent)] hover:bg-[var(--color-terminal-accent)] hover:text-[var(--color-primary-bg)] px-3 py-1 border border-[var(--color-terminal-accent)] rounded transition-colors">
+                      <a href={profileData.resumeUrl} download target="_blank" rel="noreferrer" className="text-[var(--color-terminal-accent)] hover:bg-[var(--color-terminal-accent)] hover:text-[var(--color-primary-bg)] px-3 py-1 border border-[var(--color-terminal-accent)] rounded transition-colors">
                         [ Resume ]
                       </a>
                     )}

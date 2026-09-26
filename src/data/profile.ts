@@ -9,7 +9,7 @@ export const profileData: Profile = {
   email: 'muhammadrizkyy135@gmail.com',
   github: 'https://github.com/kyyyyyyyyyyyyyy',
   linkedin: 'https://www.linkedin.com/in/muhammad-rizky-610714309/',
-  resumeUrl: '#',
+  resumeUrl: '/CV.pdf',
   focus: 'Backend Development',
   experience: '5 years',
   status: 'Available'
